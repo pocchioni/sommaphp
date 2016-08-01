@@ -2,3 +2,10 @@ test per aggiunta altro file
 
 Sono sul master. Qui per ora non faccio modifiche.
 Ho modificato solo il testo.
+
+Questo era in dev prima del merge
+Questa parte deve andare solo su dev
+Ho aggiunto il file dev.txt
+
+
+Ho fatto il merge ora sono qui.

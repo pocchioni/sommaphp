@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Somma PHP</title>
+  <title>Somma di 2 numeri in PHP</title>
  </head>
  <body>
    <form action="index.php" method="POST">

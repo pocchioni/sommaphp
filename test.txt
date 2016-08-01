@@ -1,5 +1,5 @@
 test per aggiunta altro file
 
 Questa parte deve andare solo su dev-prodotto
-
 Ora facciamo il prodotto e non più la somma
+Aggiunto il file descrizione

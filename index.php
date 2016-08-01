@@ -1,9 +1,9 @@
 <html>
  <head>
-  <title>Somma PHP</title>
+  <title>Somma e prodotto PHP</title>
  </head>
  <body>
- 
- <?php echo "Somma<p>"; ?>
+
+ <?php echo "Somma e prodotto <p>"; ?>
  </body>
 </html>

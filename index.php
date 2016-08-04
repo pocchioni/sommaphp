@@ -6,7 +6,7 @@
  <body>
 
  <?php echo "Somma e prodotto <p>"; ?>
-=======
+
   <title>Somma di 2 numeri in PHP</title>
  </head>
  <body>
@@ -17,7 +17,5 @@
   </form>
   <?php echo "Somma di " .$_POST['a']. " con " .$_POST['b']. ": " .($_POST['a'] + $_POST['b']). "<p>"; ?>
 
-
->>>>>>> dev
  </body>
 </html>

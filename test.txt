@@ -9,3 +9,5 @@ Ho aggiunto il file dev.txt
 
 
 Ho fatto il merge ora sono qui.
+
+Correzione sul master del 4 agosto
